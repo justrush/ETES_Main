@@ -18,7 +18,7 @@
 # Steps taken
 
 ## 1- Install and configure the Amplify CLI
-### link: https://docs.amplify.aws/start/getting-started/installation/q/integration/react#option-2-follow-the-instructions 
+### link: https://docs.amplify.aws/start/getting-started/installation/q/integration/react#option-2-follow-the-instructions mnion 0n 
 
 ### 1.1 Install Amplify CLI
 ### $ npm install -g @aws-amplify/cli 
